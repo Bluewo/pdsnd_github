@@ -7,11 +7,13 @@ Dec 4, 2022
 Programming with R project 3
 
 ### Description
-Describe what your project is about and what it does
+Learning how to use git
 
 ### Files used
-Include the files used
+biikeshare.py
+data.csv (ignored)
+.gitignore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://raw.githubusercontent.com/Lycogar/pdsnd_github/master/bikeshare.py
+Tutored by Freddie
