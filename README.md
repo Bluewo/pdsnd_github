@@ -17,3 +17,6 @@ data.csv (ignored)
 ### Credits
 https://raw.githubusercontent.com/Lycogar/pdsnd_github/master/bikeshare.py
 Tutored by Freddie
+
+### new section
+new details
